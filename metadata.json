@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Markdown Converter",
+  "description": "An intelligent web application that uses Gemini to convert uploaded PDF files into well-formatted Markdown, including handling of text and images.",
+  "requestFramePermissions": []
+}
